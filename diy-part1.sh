@@ -11,4 +11,3 @@
 #
 
 git clone https://github.com/yichya/luci-app-xray package/luci-app-xray
-git clone https://github.com/yichya/openwrt-xray package/openwrt-xray
